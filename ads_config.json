@@ -2,7 +2,7 @@
     "games": [
         {
             "name": "ParkourRunner",
-            "canShowAds": false
+            "canShowAds": true
         }
     ]
 }
