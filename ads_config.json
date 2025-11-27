@@ -1,0 +1,8 @@
+{
+    "games": [
+        {
+            "name": "ParkourRunner",
+            "canShowAds": false
+        }
+    ]
+}
